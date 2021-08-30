@@ -1,1 +1,3 @@
 this is a test for git class using command line.
+
+adding more lines to the file.
